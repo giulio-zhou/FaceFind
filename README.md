@@ -40,7 +40,7 @@ Of course, this example is somewhat contrived since there are many other
 factors that we'll encounter in real life. This image is very well-lit and
 has some very easily identifiable skin regions. Let's try a much harder image.
 
-![example](images/group.jpg)
+![example](images/group.png)
 
 As we can see, the results are somewhat poor but we can still see the program
 working to some extent. In the future, I aim to add more advanced feature
